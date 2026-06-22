@@ -163,10 +163,24 @@ const currentlyLearning = {
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+<div align="center">
 
-> 🧩 Active problem solver — consistently practising Data Structures, Algorithms, and logic-building challenges.
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/thiru__07/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thiru__07?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/thiru__07/)
+
+</div>
+
+### 🧩 Problem Solving Focus
+
+| 📂 Category | 🔧 Topics |
+|---|---|
+| 🔢 Data Structures | Arrays, Strings, Linked Lists, Stacks, Queues, Trees |
+| ⚙️ Algorithms | Sorting, Searching, Recursion, Dynamic Programming |
+| 🧠 Problem Patterns | Sliding Window, Two Pointers, BFS/DFS, Backtracking |
+| 💡 Goal | Consistently solve DSA problems to crack top tech interviews |
+
+> 🔥 **Active on LeetCode** — regularly solving problems across Easy, Medium & Hard difficulty levels to sharpen algorithmic thinking and interview readiness.
 
 ---
 
