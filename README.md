@@ -171,14 +171,6 @@ const currentlyLearning = {
 
 </div>
 
-### 🧩 Problem Solving Focus
-
-| 📂 Category | 🔧 Topics |
-|---|---|
-| 🔢 Data Structures | Arrays, Strings, Linked Lists, Stacks, Queues, Trees |
-| ⚙️ Algorithms | Sorting, Searching, Recursion, Dynamic Programming |
-| 🧠 Problem Patterns | Sliding Window, Two Pointers, BFS/DFS, Backtracking |
-| 💡 Goal | Consistently solve DSA problems to crack top tech interviews |
 
 > 🔥 **Active on LeetCode** — regularly solving problems across Easy, Medium & Hard difficulty levels to sharpen algorithmic thinking and interview readiness.
 
